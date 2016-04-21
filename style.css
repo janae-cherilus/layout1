@@ -1,0 +1,29 @@
+body{
+	background-color:purple;
+}
+
+nav{
+	background-color:blue;
+	margin: top;
+	height: 250px;
+	width: 100%;
+}
+.margin{
+    align-content: center;
+	height: 250px
+	width: 10%;
+	float: top;
+}
+.left{
+	float: left;
+	height: 750px;
+	background-color: black;
+	width: 50%;
+}
+.right{
+	height: 750px;
+    width: 50%;
+    background-color: white;
+    float:right;
+
+}
